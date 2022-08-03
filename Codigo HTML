@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Rui Gabriel Mendes ABA</title>
+        <link rel="stylesheet" href="Style.css.css">
+    </head>
+    <body>
+        <header>
+            <img src="rosto.jpg" alt="Ilustração de um rosto qualquer" class="photo">
+            <h1 id="title">Rui Gabriel Mendes TITULO PRINCIPAL</h1>
+     </header>
+     <section>
+        <header>
+            <h2 class="subtitle">Posts TITULO DA SEÇÃO DE POSTS</h2>
+        </header>
+        <article class="post">
+            <header>
+                <h3 class="post_title">Post #1 TITULO DE UMA POSTAGEM</h3>
+                <img src="Novo-Equinox-2023 (53).jpg" alt="Foto da nova equinox 2023" class="post_image">
+            </header>
+            <p class="post_content"> Esse texto tem como objetivo informar
+                como abrir o <a href=" https://www.google.com/maps" target="_blank">  google maps em nova guia
+            </a>E depois direcionar o click para o 
+            <a href="mailto:ruimendes792@gmail.com"> link de criação de email </a> 
+                Como adicionar imagem, como adicionar links, como fazer para clicar em um link e direcionar para uma nova guia
+                Tamanhos dos textos, como adicionar o nome que voce quer na aba em cima do navegador.
+            </p>
+        </article>
+    </section>
+    <footer>
+        <ul class="contacts_list">
+            <li>
+                <a href="mailto:ruimendes792@gmail.com">ruimendes792@gmail.com</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/" target="_blank"> Youtube</a>
+            </li>
+            <li>
+                <a href="https://www.google.com/maps" target="_blank"> Mapas</a>
+            </li>
+        </ul>
+    </footer>    
+    </body>
+</html>
+ 
